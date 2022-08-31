@@ -1,0 +1,2 @@
+run npm i express
+__dirname,'../index.html'): so that we cna go up 1 folder and go to index.html
